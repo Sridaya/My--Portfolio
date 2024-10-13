@@ -39,6 +39,15 @@ I am a 3rd-year computer science engineering student with a strong interest in w
 - UI/UX Principles
 - python
 
+## Certificates
+
+Here are my certificates:
+
+- [Certificate in UI/UX Design](https://www.yourcertificateurl.com)
+- [Certificate in Web Development](https://www.yourcertificateurl.com)  <!-- Replace with your actual URL -->
+- [Certificate in React.js Development](https://www.yourcertificateurl.com)  <!-- Replace with your actual URL -->
+
+
 ## Contact
 Feel free to reach out to me:
 
